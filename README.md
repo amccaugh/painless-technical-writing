@@ -1,5 +1,5 @@
 # What is this?
-- The purpose of this document is to help you organize and write a technical paper/proposal as painlessly as possible
+- This is a method to help you organize and write a technical paper/proposal as painlessly as possible
 - The way we accomplish this is through an iterative outlining process similar to the [George Whitesides approach](https://pubs.acs.org/userimages/ContentEditor/1305035664639/Whitesides-ACS-Writing-a-Scientific-Paper.pdf). 
   - In step 0 you will be a topic-generating machine, writing down any idea/topic may need to be in the paper
   - In step 1 you will group similar ideas into approximate sections
