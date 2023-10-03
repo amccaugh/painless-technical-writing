@@ -22,13 +22,14 @@
     - e.g. motivation, background, theory, experiment 1, experiment 2, analysis, future work
   - Cut the topics out of the "Scratchpad" section and paste them into your rough groupings
   - Continue organizing until most topics from your scratchpad have an (approximate) home
+  - Place figures as their own bullet point, e.g. "- Figure 1: Circuit schematic of experiment"
   - If you think of new topics, add them to the scratchpad
 
 ### Step 2: Create the logical flow
 *Note: Include your collaborators on this step. It is the most crucial for getting everyone to agree on the logical flow of the paper*
-  - Expand each topic into simple bullet points w/incomplete grammar but complete logic
-  - Use very short sentences & do not use correct grammar!
-  - Place figures as their own bullet point, e.g. "- Figure 1: Circuit schematic of experiment"
+  - In each section, arrange topics into rough logical order
+  - Expand each topic into very simple bullet points
+    - Use very short sentences & do not use correct grammar!
   - Repeat this step until each idea is in the right place (to ~90% surety), will require several passes through the outline
   - Continue adding to the scratchpad while doing the writing
   - Example: https://docs.google.com/document/d/1SVXOa2Tx7_3D5qbV1GMHinb16MC-tZsNUzOw43C9G7c/edit
