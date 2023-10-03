@@ -1,12 +1,15 @@
 # What is this?
 - This is a method to help you organize and write a technical paper/proposal as painlessly as possible
 - The way we accomplish this is through an iterative outlining process similar to the [George Whitesides approach](https://pubs.acs.org/userimages/ContentEditor/1305035664639/Whitesides-ACS-Writing-a-Scientific-Paper.pdf). 
-  - In step 0 you will be a topic-generating machine, writing down any idea/topic may need to be in the paper
-  - In step 1 you will group similar ideas into approximate sections
-  - In step 2 you will focus on arranging those ideas into an orderly logical argument so your outline conveys the points you want the paper to make
-  - In step 3 you will convert each logical statement into full sentences
-  - By step 4, your paper will be essentially already-written: you will have full sentences nicely organized in a logical flow
+  - In step 1 you will be a topic-generating machine, writing down any idea/topic may need to be in the paper
+  - In step 2 you will group similar ideas into approximate sections
+  - In step 3 you will focus on arranging those ideas into an orderly logical argument so your outline conveys the points you want the paper to make
+  - In step 4 you will convert each logical statement into full sentences
+  - By step 5, your paper will be essentially already-written: you will have full sentences nicely organized in a logical flow
 - A key ingredient to making this painless is to *only work on one thing at a time*.  So when you're organizing the logical argument, you are explicitly *not* working on figures, running calculations, worry about correct grammar, etc.  This way, when you sit to work, you only have to worry about doing one single task, and you get it done in a timely manner.
+- Recommendations:
+  - Do steps 1-3 **before** you've completed your research.  Constructing a coherent logical flow for your paper (and deciding on figures) can help immensely with guiding your research and limiting the amount of work you have to do.
+  - If collaborating, do steps 1-3 together: these steps are critical to forming the basic arguments and ideas underlying your paper
 
 # Initial setup
 
@@ -21,7 +24,7 @@
 
 *The goal is to work on one single step for at least 20 mins at a time, repeatedly until the step is completed.  Resist the urge to skip ahead*
 
-### Step 0: Generate topics that may be relevant to the paper
+### Step 1: Generate topics that may be relevant to the paper
   - Write down any ideas/topics relevant to the paper as its own line under "Scratchpad"
     - Each line should only be a few words
     - Err on the side of capturing too many ideas/topics -- even if only somewhat related
@@ -29,7 +32,7 @@
   - Any ideas for figures should go in "Figures"
   - Potential areas to think about when coming up with ideas:  motivation, previous work/background, theory, results, experimental setup, conclusion, equipment, fabrication, parameters, modeling, simulation, caveats
 
-### Step 1: Group topics into rough sections
+### Step 2: Group topics into rough sections
   - Look over your scratchpad ideas and try to come up with rough groupings for the topics
     - e.g. motivation, background, theory, experiment 1, experiment 2, analysis, future work
   - Cut the topics out of the "Scratchpad" section and paste them into your rough groupings
@@ -37,7 +40,7 @@
   - Place figures as their own bullet point, e.g. "- Figure: Circuit schematic of experiment"
   - If you think of new topics, add them to the scratchpad
 
-### Step 2: Create the logical flow
+### Step 3: Create the logical flow
 *Note: Include your collaborators on this step. It is the most crucial for getting everyone to agree on the main arguments & flow of the paper*
   - In each section, try to sort the topics into a rough logical order
   - Review your scratchpad, moving any topics into the outline as needed
@@ -66,7 +69,7 @@
   - In the next step you will be a English-writing machine, doing very little logical analysis or new thought.  It's crucial that your the logical flow of your outline be mostly complete to allow you to focus on writing complete English sentences
   - 
 
-### Step 3: Convert each bullet point into a complete thought
+### Step 4: Convert each bullet point into a complete thought
   - Rewrite each logical bullet point into complete sentences (~1-3 sentences)
   - Only focus on writing out full sentences, do **not** do any calculation/reading/figure-making (write "fixme" instead)
   - Avoid writing grammar/transitions between separate points, you may be reordering the points as you flesh things out
@@ -77,7 +80,7 @@
     - What is tempting is to interrupt the (hard) process of writing English in order to do (easier/more fun) analysis, making figures, background reading, etc.
     - Avoid this temptation! You will be surprised at how quickly you can bring the paper to near-complete form if you only focus on converting your logical arguments to grammatically-correct English
 
-### Step 4: Convert the outline to the first draft
+### Step 5: Convert the outline to a finalized draft
   - Go through all your "fixme" comments and address them
   - At this stage you should really only be adding things like transitions between sentences and tidying up the language; the paper should be mostly written already (just in bullet-point form)
     - Finished example: https://doi.org/10.1063/5.0157645
@@ -86,6 +89,6 @@
 
 # Other notes:
 
-- Once you're at step 4, before you sit down to write each time, review one previously-written paragraph very thoroughly for clarity/flow. Mark "REVIEWME" on next paragraph for next time.
+- Once you're at step 5, before you sit down to write each time, review one previously-written paragraph very thoroughly for clarity/flow. Mark "REVIEWME" on next paragraph for next time.
 - Try not to switch processes: e.g. when outlining, don’t switch to drawing figures/doing calculations
 - Once draft completely written, compile list of fixmes and start cranking through them one by one
