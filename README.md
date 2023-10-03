@@ -1,3 +1,13 @@
+# What is this?
+- The purpose of this document is to help you organize and write a technical paper/proposal as painlessly as possible
+- The way we accomplish this is through an iterative outlining process similar to the [George Whitesides approach](https://pubs.acs.org/userimages/ContentEditor/1305035664639/Whitesides-ACS-Writing-a-Scientific-Paper.pdf). 
+  - In step 0 you will be a topic-generating machine, writing down any idea/topic may need to be in the paper
+  - In step 1 you will group similar ideas into approximate sections
+  - In step 2 you will focus on arranging those ideas into an orderly logical argument so your outline conveys the points you want the paper to make
+  - In step 3 you will convert each logical statement into full sentences
+  - By step 4, your paper will be essentially already-written: you will have full sentences nicely organized in a logical flow
+- A key ingredient to making this painless is to *only work on one thing at a time*.  So when you're organizing the logical argument, you are explicitly *not* working on figures, running calculations, worry about correct grammar, etc.  This way, when you sit to work, you only have to worry about doing one single task, and you get it done in a timely manner.
+
 # Initial setup
 
 - Make new plaintext file / Google Doc
@@ -15,7 +25,8 @@
   - Write down each topic as its own line under "Scratchpad". Each topic should only be a few words
   - Any ideas for figures should go in "Figures"
   - Potential areas to think about when coming up with ideas:  Motivation, Previous work/background, Theory, Results, Experimental setup, Conclusion, Equipment, Fabrication, Parameters, Modeling, Simulation, Caveats
-  - Write down any ideas/topics relevant to the paper, even if only somewhat related -- not all ideas from the scratchpad will end up in the outline, but the point is to make sure you don't forget/miss any ideas later on
+  - Write down any ideas/topics relevant to the paper, even if only somewhat related
+    - Not all ideas from the scratchpad will end up in the outline, but the point is to make sure you don't forget/miss any ideas later on
 
 ### Step 1: Group topics into rough sections
   - Look over your scratchpad ideas and try to come up with rough groupings for the topics
@@ -26,9 +37,11 @@
   - If you think of new topics, add them to the scratchpad
 
 ### Step 2: Create the logical flow
-*Note: Include your collaborators on this step. It is the most crucial for getting everyone to agree on the logical flow of the paper*
+*Note: Include your collaborators on this step. It is the most crucial for getting everyone to agree on the main arguments & flow of the paper*
   - In each section, try to sort the topics into a rough logical order
+  - Review your scratchpad, moving any topics into the outline as needed
   - Expand each topic into very simple bullet points
+    - Write "fixme" where needed e.g. "Our transistor will require (fixme 100W? calculate power) of power when implemented."
     - Use very short sentences & do not use correct grammar!
   - Repeat this step until each idea is in the right place (to ~90% surety), will require several passes through the outline
   - Continue adding to the scratchpad while doing the writing
@@ -44,10 +57,17 @@
       - digital computation important to AI
       - silicon necessary for AI
 
+### Intermission: Finish gathering data & finalize figures
+- At this point, you may be missing information needed to fully complete the logical flow of the paper
+- Now is the time to do extra experiments, perform analysis, do reading, etc
+- Do not worry about addressing all the "fixme"s, only gathering enough information to make sure your outline makes sense logically
+- #### Why?
+  - In the next step you will be a English-writing machine, doing very little logical analysis or new thought.  It's crucial that your the logical flow of your outline be mostly complete to allow you to focus on writing complete English sentences
+  - 
+
 ### Step 3: Convert each bullet point into a complete thought
   - Rewrite each logical bullet point into complete sentences (~1-3 sentences)
-  - Only focus on writing out full sentences, do **not** do any calculation/reading/figure-making
-    - Write "fixme" where needed e.g. "Our transistor will require (fixme 100W? calculate power) of power when implemented."
+  - Only focus on writing out full sentences, do **not** do any calculation/reading/figure-making (write "fixme" instead)
   - Avoid writing grammar/transitions between separate points, you may be reordering the points as you flesh things out
   - Goal: Each bullet point is well-written enough to be pasted into the paper without modification and have a quasi-readable paper
   - Example: https://docs.google.com/document/d/1pVV6VOanVaIH8BwYBuEermebI2L-4HI0Ljhx3w3bbak/edit
