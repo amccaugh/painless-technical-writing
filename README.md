@@ -66,8 +66,7 @@
 - Now is the time to do extra experiments, perform analysis, do reading, etc
 - Do not worry about addressing all the "fixme"s, only gathering enough information to make sure your outline makes sense logically
 - #### Why?
-  - In the next step you will be a English-writing machine, doing very little logical analysis or new thought.  It's crucial that your the logical flow of your outline be mostly complete to allow you to focus on writing complete English sentences
-  - 
+  - In the next step you will be an English-writing machine, doing very little logical analysis or new thought.  It's crucial that your the logical flow of your outline be mostly-complete to allow you to focus on writing complete English sentences
 
 ### Step 4: Convert each bullet point into a complete thought
   - Rewrite each logical bullet point into complete sentences (~1-3 sentences)
