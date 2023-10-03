@@ -56,7 +56,7 @@
     - What is tempting is to interrupt the (hard) process of writing English in order to do (easier/more fun) analysis, making figures, background reading, etc.
     - Avoid this temptation! You will be surprised at how quickly you can bring the paper to near-complete form if you only focus on converting your logical arguments to grammatically-correct English
 
-4.  Write the first draft
+### Step 4: Convert the outline to the first draft
   - Go through all your "fixme" comments and address them
   - At this stage you should really only be adding things like transitions between sentences and tidying up the language; the paper should be mostly written already (just in bullet-point form)
     - Finished example: https://doi.org/10.1063/5.0157645
