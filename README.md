@@ -15,7 +15,7 @@
   - Write down each topic as its own line under "Scratchpad". Each topic should only be a few words
   - Any ideas for figures should go in "Figures"
   - Potential areas to think about when coming up with ideas:  Motivation, Previous work/background, Theory, Results, Experimental setup, Conclusion, Equipment, Fabrication, Parameters, Modeling, Simulation, Caveats
-  - Write down ny ideas/topics relevant to the paper, even if only somewhat related -- not all ideas from the scratchpad will end up in the outline, but the point is to make sure you don't forget/miss any ideas later on
+  - Write down any ideas/topics relevant to the paper, even if only somewhat related -- not all ideas from the scratchpad will end up in the outline, but the point is to make sure you don't forget/miss any ideas later on
 
 ### Step 1: Organize topics into rough sections
   - Look over your scratchpad ideas and try to come up with rough groupings for the topics
@@ -24,22 +24,24 @@
   - Continue organizing until most topics from your scratchpad have an (approximate) home
   - If you think of new topics, add them to the scratchpad
 
-### Step 2: Create the initial outline
+### Step 2: Create the logical flow
+*Note: Include your collaborators on this step. It is the most crucial for getting everyone to agree on the logical flow of the paper*
   - Expand each topic into simple bullet points w/incomplete grammar but complete logic
-  - Use shorthand sentences & do not use correct grammar! There are two reasons for this:
-    - Most of these points will likely be rewritten/reformatted, so you don't want to waste effort writing that will be deleted later
-    - It's much easier to read/rearrange a list of shorthand sentences than long ones, and you may do a lot of rearranging
+  - Use very short sentences & do not use correct grammar!
+  - Place figures as their own bullet point, e.g. "- Figure 1: Circuit schematic of experiment"
+  - Repeat this step until each idea is in the right place (to ~90% surety), will require several passes through the outline
+  - Continue adding to the scratchpad while doing the writing
+  - Example: https://docs.google.com/document/d/1SVXOa2Tx7_3D5qbV1GMHinb16MC-tZsNUzOw43C9G7c/edit
+- #### Why?
+    - Shorthand sentences are easier to quickly parse--and rearrange--than long ones
+    - Any effort you put into writing well-structured/good-sounding sentences will work against you, as it will be harder to read and you may grow attached to how it sounds which will cause you trouble when fleshing out the outline.
+    - Most of these points will likely be rewritten/reformatted as your outline evolves, so you don't want to waste effort writing sentences with good grammar
+    - The point of the scratchpad is to capture any miscellaneous detail that might spring to mind while you're creating the logical flow of the outline.  By adding these thoughts directly to the scratchpad, you both capture them and avoid diverting your attention from your task--creating logical flow.
     - Example:
       - silicon good for making transistors
       - transistors used for digital computation
       - digital computation important to AI
       - silicon necessary for AI
-  - Place figures as their own bullet point, e.g. "- Figure 1: Circuit schematic of experiment"
-  - Repeat until each idea is in the right place (to ~90% surety)
-    - This will likely require several passes through the outline
-  - Continue adding to the scratchpad while doing the writing: the point is to capture all the details that spring to mind in one place (you don't need to use all of them, just don't want to miss any)
-  - If collaborating: this step is the most crucial for getting everyone to agree on the logical flow of the paper
-  - Example: https://docs.google.com/document/d/1SVXOa2Tx7_3D5qbV1GMHinb16MC-tZsNUzOw43C9G7c/edit
 
 ### Step 3: Flesh out the outline: Convert each bullet point into a complete thought
   - Revise each bullet point into complete sentences (~1-3 sentences)
