@@ -22,11 +22,12 @@
 *The goal is to work on one single step for at least 20 mins at a time, repeatedly until the step is completed.  Resist the urge to skip ahead*
 
 ### Step 0: Generate topics that may be relevant to the paper
-  - Write down each topic as its own line under "Scratchpad". Each topic should only be a few words
+  - Write down any ideas/topics relevant to the paper as its own line under "Scratchpad"
+    - Each line should only be a few words
+    - Err on the side of capturing too many ideas/topics -- even if only somewhat related
+    - Not all ideas from the scratchpad will be used in the outline, but the point is to make sure you don't forget/miss any topics later on
   - Any ideas for figures should go in "Figures"
-  - Potential areas to think about when coming up with ideas:  Motivation, Previous work/background, Theory, Results, Experimental setup, Conclusion, Equipment, Fabrication, Parameters, Modeling, Simulation, Caveats
-  - Write down any ideas/topics relevant to the paper, even if only somewhat related
-    - Not all ideas from the scratchpad will end up in the outline, but the point is to make sure you don't forget/miss any ideas later on
+  - Potential areas to think about when coming up with ideas:  motivation, previous work/background, theory, results, experimental setup, conclusion, equipment, fabrication, parameters, modeling, simulation, caveats
 
 ### Step 1: Group topics into rough sections
   - Look over your scratchpad ideas and try to come up with rough groupings for the topics
