@@ -6,7 +6,7 @@
   - In step 3 you will focus on arranging those ideas into an orderly logical argument so your outline conveys the points you want the paper to make
   - In step 4 you will convert each logical statement into full sentences
   - By step 5, your paper will be essentially already-written: you will have full sentences nicely organized in a logical flow
-- A key ingredient to making this painless is to *only work on one thing at a time*.  So when you're organizing the logical argument, you are explicitly *not* working on figures, running calculations, worry about correct grammar, etc.  This way, when you sit to work, you only have to worry about doing one single task, and you get it done in a timely manner.
+- A key ingredient to making this painless is to *only work on one thing at a time*.  So when you're organizing the logical argument, you are explicitly **not** working on figures, running calculations, worrying about correct grammar, etc.  This way, when you sit to work, you only have to think about a single task, and you get it done in a timely manner.
 - Recommendations:
   - Do steps 1-3 **before** you've completed your research.  Constructing a coherent logical flow for your paper (and deciding on figures) can help immensely with guiding your research and limiting the amount of work you have to do.
   - If collaborating, do steps 1-3 together: these steps are critical to forming the basic arguments and ideas underlying your paper
