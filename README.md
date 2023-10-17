@@ -1,12 +1,13 @@
 # What is this?
 - This is a method to help you organize and write a technical paper/proposal as painlessly as possible
-- The way we accomplish this is through an iterative outlining process similar to the [George Whitesides approach](https://pubs.acs.org/userimages/ContentEditor/1305035664639/Whitesides-ACS-Writing-a-Scientific-Paper.pdf). 
+- The way we accomplish this is through an iterative outlining process similar to the [George Whitesides approach](https://pubs.acs.org/userimages/ContentEditor/1305035664639/Whitesides-ACS-Writing-a-Scientific-Paper.pdf).  
   - In step 1 you will be a topic-generating machine, writing down any idea/topic may need to be in the paper
   - In step 2 you will group similar ideas into approximate sections
   - In step 3 you will focus on arranging those ideas into an orderly logical argument so your outline conveys the points you want the paper to make
   - In step 4 you will convert each logical statement into full sentences
   - By step 5, your paper will be essentially already-written: you will have full sentences nicely organized in a logical flow
 - A key ingredient to making this painless is to *only work on one thing at a time*.  So when you're organizing the logical argument, you are explicitly **not** working on figures, running calculations, worrying about correct grammar, etc.  This way, when you sit to work, you only have to think about a single task, and you get it done in a timely manner.
+- The process works because each individual step is simple.  It's much easier to convince yourself to write when the task is straightforward like "arrange a few ideas into logical order" rather than ill-defined tasks like "write the introduction".
 - Recommendations:
   - Do steps 1-3 **before** you've completed your research.  Constructing a coherent logical flow for your paper (and deciding on figures) can help immensely with guiding your research and limiting the amount of work you have to do.
   - If collaborating, do steps 1-3 together: these steps are critical to forming the basic arguments and ideas underlying your paper
