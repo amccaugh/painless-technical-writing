@@ -3,7 +3,7 @@
 - The way we accomplish this is through an iterative outlining process similar to the [George Whitesides approach](https://pubs.acs.org/userimages/ContentEditor/1305035664639/Whitesides-ACS-Writing-a-Scientific-Paper.pdf).  
   - In step 1 you will be a topic-generating machine, writing down any idea/topic may need to be in the paper
   - In step 2 you will group similar ideas into approximate sections
-  - In step 3 you will focus on arranging those ideas into an orderly logical argument so your outline conveys the points you want the paper to make
+  - In step 3 you will focus on arranging the ideas in each section into orderly logical arguments so your outline is a coherent, complete story
   - In step 4 you will convert each logical statement into full sentences
   - By step 5, your paper will be essentially already-written: you will have full sentences nicely organized in a logical flow
 - A key ingredient to making this painless is to *only work on one thing at a time*.  So when you're organizing the logical argument, you are explicitly **not** working on figures, running calculations, worrying about correct grammar, etc.  This way, when you sit to work, you only have to think about a single task, and you get it done in a timely manner.
