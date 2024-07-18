@@ -92,3 +92,4 @@
 - Once you're at step 5, before you sit down to write each time, review one previously-written paragraph very thoroughly for clarity/flow. Mark "REVIEWME" on next paragraph for next time.
 - Try not to switch processes: e.g. when outlining, don’t switch to drawing figures/doing calculations
 - Once draft completely written, compile list of fixmes and start cranking through them one by one
+- Credit to [Prof. Karl Berggren](https://qnn-rle.mit.edu/) for my introduction and instruction on some of these outlining methods
