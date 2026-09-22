@@ -1,6 +1,6 @@
 # What is this?
 - This is a method to help you organize and write a technical paper/proposal as painlessly as possible
-- The way we accomplish this is through an iterative outlining process similar to the [George Whitesides approach](https://pubs.acs.org/userimages/ContentEditor/1305035664639/Whitesides-ACS-Writing-a-Scientific-Paper.pdf).  
+- The way we accomplish this is through an iterative outlining process similar to the [George Whitesides approach](https://github.com/amccaugh/painless-technical-writing/blob/main/Whitesides-ACS-Writing-a-Scientific-Paper.pdf).  
   - In step 1 you will be a topic-generating machine, writing down any idea/topic may need to be in the paper
   - In step 2 you will group similar ideas into approximate sections
   - In step 3 you will focus on arranging the ideas in each section into orderly logical arguments so your outline is a coherent, complete story
